@@ -1,2 +1,3 @@
-# manual-dos-calouros
-Manual destinado aos calouros de Sistemas de Informação da Escola de Artes, Ciências e Humanidades da Universidade de São Paulo
+# Manual dos Calouros
+***Por: Diretório Acadêmico de Sistemas de Informação da Escolas de Artes, Ciências e Humanidades - Universidade de São Paulo (DASI-USP)***
+## Seja bem-vindo ao manual de entrada dos calouros do curso de S.I. da EACH-USP!
