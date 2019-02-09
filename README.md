@@ -7,85 +7,85 @@
 
 ### Sumário
 
-##### 1. TÓPICOS PRINCIPAIS 5
-##### 2. INTRODUÇÃO	6
-##### 2.1 As Áreas do DASI	7
-##### 2.1.1 Administrativo	7
-##### 2.1.2 Acadêmico	7
-##### 2.1.3 Comercial	8
-##### 2.1.4 Esportivo	8
-##### 2.1.5 Eventos	8
-##### 2.1.6 Financeiro	9
-##### 2.1.7 Marketing	9
-##### 2.1.8 TI	10
-##### 3. EACH	10
-##### 3.1 Prédios da EACH	11
-##### 4. SEMANA DE RECEPÇÃO	14
-##### 5. UTILIDADES NA EACH	15
-##### 5.1. Cartão USP	15
-##### 5.2. Bilhete Único	16
-##### 5.3. Links úteis	16
-##### 5.3.1. TIDIA-AE (Cursos On-line)	16
-##### 5.3.3. Jupiter Web	17
-##### 5.3.4. Calisto Web	17
-##### 5.4. Biblioteca	18
-##### 5.5. Laboratórios e Cota de Impressão	18
-##### 5.6. Bandejão	19
-##### 5.8. Seção de Graduação	19
-##### 5.9. Microsoft Imagine	20
-##### 5.10. Softwares da Jetbrains	20
-##### 6. O CURSO DE SI	20
-##### 6.1 Estágios	21
-##### 6.2. Iniciação Científica	22
-##### CNPq	22
-##### Ensinar com Pesquisa	23
-##### FAPESP	23
-##### IC Voluntária	23
-##### 6.3 Intercâmbios	24
-##### Programas de Intercâmbio oferecidos exclusivamente pela USP	25
-##### Bolsa Santander USP	25
-##### 6.4 Entidades, grupos e RD’s	25
-##### PET- SI	25
-##### Síntese  Jr.	26
-##### EACH GameDev	26
-##### TechnoMakers EACH	26
-##### Web/Dev	27
-##### Representantes Discentes (RD's)   	27
-##### 6.5 Créditos e Pré-requisitos	27
-##### 7. ASSUNTOS DO COTIDIANO	28
-##### 7.1 - Permanência na faculdade - PAPFE - COSEAS	28
-##### 7.2 - Transporte	29
-##### CPTM/METRÔ	29
-##### Ônibus/Lotação (SPTrans)	31
-##### Caronas	32
-##### 7.3. Moradia	32
-##### Avenida Assis Ribeiro (Alturas próximas à EACH)	32
-##### Engenheiro Goulart (Uma estação antes da USP Leste, na linha 12 Safira, sentido Calmon Viana)	33
-##### Tatuapé (Estação da linha vermelha do metrô e acesso à linha 12 Safira, a da USP Leste)	33
-##### 7.4. Lanchonete	34
-##### Keralux (Comunidade ao lado do campus USP Leste)	34
-##### Assis Ribeiro/Estação USP Leste	34
-##### Especial para repúblicas no Tatuapé	35
-##### 8. CIDADE UNIVERSITÁRIA	36
-##### 8.1. Cursos de Extensão	36
-##### 8.2. Lazer, Cultura e Esportes	36
-##### 9. VIDA UNIVERSITÁRIA	36
-##### 9.1 Onde e como estudar?	36
-##### 9.1.1. Monitorias	37
-##### 9.1.2. Sufoco	37
-##### 9.1.3. Dojo	38
-##### 9.1.4. Minicurso de Lógica	38
-##### 9.2 Esportes	39
-##### 9.2.2. Intercomp	39
-##### 9.3. E a diversão?	40
-##### 9.3.1. Semana de Sistemas de Informação	41
-##### 9.3.2. Festas do DASI – Glow in Each e Eachian Horror Story – Madness	42
-##### 9.3.3. Centro Acadêmico	42
-##### 9.4. Hinos	43
-##### Grifo	43
-##### Me dê limão	43
-##### Sou da EACH	44
-##### Ser feliz na USP	44
+##### 1. TÓPICOS PRINCIPAIS
+##### 2. INTRODUÇÃO
+##### 2.1 As Áreas do DASI
+##### 2.1.1 Administrativo
+##### 2.1.2 Acadêmico
+##### 2.1.3 Comercial
+##### 2.1.4 Esportivo
+##### 2.1.5 Eventos
+##### 2.1.6 Financeiro
+##### 2.1.7 Marketing
+##### 2.1.8 TI
+##### 3. EACH
+##### 3.1 Prédios da EACH
+##### 4. SEMANA DE RECEPÇÃO
+##### 5. UTILIDADES NA EACH
+##### 5.1. Cartão USP
+##### 5.2. Bilhete Único
+##### 5.3. Links úteis
+##### 5.3.1. TIDIA-AE (Cursos On-line)
+##### 5.3.3. Jupiter Web
+##### 5.3.4. Calisto Web
+##### 5.4. Biblioteca
+##### 5.5. Laboratórios e Cota de Impressão
+##### 5.6. Bandejão
+##### 5.8. Seção de Graduação
+##### 5.9. Microsoft Imagine
+##### 5.10. Softwares da Jetbrains
+##### 6. O CURSO DE SI
+##### 6.1 Estágios
+##### 6.2. Iniciação Científica
+##### CNPq
+##### Ensinar com Pesquisa
+##### FAPESP
+##### IC Voluntária
+##### 6.3 Intercâmbios
+##### Programas de Intercâmbio oferecidos exclusivamente pela USP
+##### Bolsa Santander USP
+##### 6.4 Entidades, grupos e RD’s
+##### PET- SI
+##### Síntese  Jr.
+##### EACH GameDev
+##### TechnoMakers EACH
+##### Web/Dev
+##### Representantes Discentes (RD's)
+##### 6.5 Créditos e Pré-requisitos
+##### 7. ASSUNTOS DO COTIDIANO
+##### 7.1 - Permanência na faculdade - PAPFE - COSEAS
+##### 7.2 - Transporte
+##### CPTM/METRÔ
+##### Ônibus/Lotação (SPTrans)
+##### Caronas
+##### 7.3. Moradia
+##### Avenida Assis Ribeiro (Alturas próximas à EACH)
+##### Engenheiro Goulart (Uma estação antes da USP Leste, na linha 12 Safira, sentido Calmon Viana)
+##### Tatuapé (Estação da linha vermelha do metrô e acesso à linha 12 Safira, a da USP Leste)
+##### 7.4. Lanchonete
+##### Keralux (Comunidade ao lado do campus USP Leste)
+##### Assis Ribeiro/Estação USP Leste
+##### Especial para repúblicas no Tatuapé
+##### 8. CIDADE UNIVERSITÁRIA
+##### 8.1. Cursos de Extensão
+##### 8.2. Lazer, Cultura e Esportes
+##### 9. VIDA UNIVERSITÁRIA
+##### 9.1 Onde e como estudar?
+##### 9.1.1. Monitorias
+##### 9.1.2. Sufoco
+##### 9.1.3. Dojo
+##### 9.1.4. Minicurso de Lógica
+##### 9.2 Esportes
+##### 9.2.2. Intercomp
+##### 9.3. E a diversão?
+##### 9.3.1. Semana de Sistemas de Informação
+##### 9.3.2. Festas do DASI – Glow in Each e Eachian Horror Story – Madness
+##### 9.3.3. Centro Acadêmico
+##### 9.4. Hinos
+##### Grifo
+##### Me dê limão
+##### Sou da EACH
+##### Ser feliz na USP
 ##### 10. CRÉDITOS
 
 #### 1. Tópicos principais
