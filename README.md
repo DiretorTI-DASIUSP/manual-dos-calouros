@@ -56,26 +56,17 @@ Esse setor é responsável por: desenvolver, implementar e manter as ferramentas
 A Escola de Artes, Ciências e Humanidades (EACH), localizada no campus USP Leste, é uma unidade de ensino, pesquisa e extensão da Universidade de São Paulo. Foi inaugurada no dia 27 de fevereiro de 2005 e pertence ao segmento leste do campus da Capital da Universidade de São Paulo.
 O projeto pedagógico da EACH caracteriza-se pela promoção da integração entre as diversas áreas do conhecimento e, por extensão, de seus onze cursos. Por isso, diferente de muitas unidades da Universidade de São Paulo, ela não é dividida em departamentos, possuindo apenas coordenações de cursos e a coordenação do Ciclo Básico.
 A EACH tem como princípio norteador promover uma forte interação com as comunidades da zona leste. Ao lado das atividades culturais e esportivas, propõe-se a desenvolver diversos programas de extensão, como cursos de aperfeiçoamento e projetos de pesquisa voltados para a solução de problemas locais, além de proporcionar maior acesso às facilidades laboratoriais em diversas áreas, como ciências, artes, informática, sensoriamento remoto e ensino de línguas.
-2.1 Prédios da EACH
+##### 3.1 Prédios da EACH
 A EACH é um espaço bem grande, e por isso, é bem fácil para você, bixo ou bixete, ficar perdido nele nos primeiros dias. Para te ajudar, vale sempre ficar de olho no mapa. Os números em vermelho são de partes que ainda não foram construídas (quem sabe um dia?)
-
 Durante seu período na EACH você vai frequentar alguns prédios entre eles os principais são: Titanic, CB, Elefante Branco. Além disso também temos a Biblioteca, os Auditórios e o Ginásio.
-
-Titanic (I1)
+###### Titanic (I1)
 Nesse prédio é onde você tem a grande maioria de suas aulas, é nele que estão: a sala do DASI, as salas das EJS, a sala do PET, nosso querido bandejão (<3), o serviço de graduação e as salas de alguns professores.
-
-
-CB
+###### CB (Ciclo básico)
 Aqui você vai ter as aulas do CB, também estão aqui: A lanchonete, os laboratórios para uso dos alunos, o laboratório para impressão e o deque - ou o que sobrou dele... :(
-
-
-Elefante Branco (A1)
+###### Elefante Branco (A1)
 Neste prédio estão as salas dos professores. Além disso é um lugar tranquilo para estudar, tirar uma soneca, ir ao banheiro ou dar uns beijinhos rs.
-
-
-Incubadora Tecnológica e Social
+###### Incubadora Tecnológica e Social
 Habitat de inovação tecnológica e social é uma incubadora que abriga novas empresas dando apoio para que elas se desenvolvam. É um espaço aberto aos estudantes e conta com alguns eventos englobando o empreendedorismo.
-
 
 #### 4. Semana de recepção
 #### 5. Utilidades na EACH
