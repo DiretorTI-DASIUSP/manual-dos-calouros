@@ -1,7 +1,9 @@
 # Manual dos Calouros
 ***Por: Diretório Acadêmico de Sistemas de Informação da Escolas de Artes, Ciências e Humanidades - Universidade de São Paulo (DASI-USP)***
 ## Seja bem-vindo ao manual dos calouros do curso de S.I. da EACH-USP!
+
 -------------------
+
 ### Sumário
 #### 1. Tópicos principais
 Pra facilitar sua vida, bixão ou bixete, abaixo estão os tópicos mais importantes. Lembramos que o manual foi feito para fazer com que vocês fiquem um pouco mais espertinhos nesse começo do curso, então ler só os tópicos principais não vai adiantar muito  ¯\_(ツ)_/¯  mas pelo menos vai conhecer o mínimo que precisa.
