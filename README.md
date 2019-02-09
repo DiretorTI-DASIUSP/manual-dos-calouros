@@ -8,7 +8,7 @@
 ### Sumário
 
 ##### 1. TÓPICOS PRINCIPAIS 5
-2. INTRODUÇÃO	6
+#### 2. INTRODUÇÃO	6
 2.1 As Áreas do DASI	7
 2.1.1 Administrativo	7
 2.1.2 Acadêmico	7
