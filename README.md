@@ -45,9 +45,11 @@ Esse setor, junto ao diretor financeiro, solicitam verba para aquisição de pro
 É nesse setor que, junto com o vice-presidente administrativo, planeja o cronograma geral dos eventos festivos/culturais e promovem estudo de viabilidade de recursos, com levantamento de opções de regulamentos, locais, custos, enfim toda informação necessária para a realização de um evento apresentando-o ao final para aprovação além de efetuar compras e alocações de recursos em nome do DASI para a realização dos eventos. Realizações como estas proporcionam um momento de lazer, diversão e integração em meio a vida diária na graduação. Atualmente este setor é responsável por 3 principais eventos, sendo eles: a Festa de Recepção, geralmente realizadas em conjunto com outras entidades; a Festa Pré-intercomp (também conhecida como PancaDASI); e a "Glow in EACH", maior e melhor festa do diretório.
 ###### 2.1.6 Financeiro
 Esse setor tem a tarefa de zelar pelo bem da saúde financeira do DASI e documentar toda a verba utilizada para aquisição de produtos. Deve sempre arquivar todas as notas de compras e/ou comprovantes de reembolso. Deve estar por dentro dos orçamentos de todas as áreas, principalmente durante o Intercomp e Glow, para conseguir conciliar as datas de pagamentos desses eventos, que movimentam muito dinheiro. Responsável pela conta bancária da entidade, ter conhecimento e controle das pessoas que são credoras ou devem dinheiro ao DASI.
-###### 2.1.7 Criação
+###### 2.1.7 Marketing
+O setor de marketing é responsável por toda a parte de comunicação e criação dentro do diretório. Na parte de comunicação lidamos com contato direto com alunos, respondendo suas solicitações e dúvidas nas redes sociais, além de preparar os textos para publicações nessas redes e qualquer outra divulgação.
+###### 2.1.8 Criação
 O setor de criação fica responsável pela parte artística do diretório, criando identidade visual para as redes sociais, Intercomp, Glow, Pancadasi, SSI e qualquer outro evento que ocorra. Além disso, todas as peças que confeccionamos, como as camisetas, bottons, canecas e outros precisam ser confeccionadas por algum membro desse setor.
-###### 2.1.8 T.I.
+###### 2.1.9 T.I.
 Esse setor é responsável por: desenvolver, implementar e manter as ferramentas de comunicação internas (servidor de e-mails, telegram, drive) e externas (facebook, instagram, twitter, site); manter quaisquer canais on-line de vendas, estoque e o que mais for solicitado pelas diretorias; idealizar e propor à presidência ideias de novos sistemas úteis ao DASI ou aos alunos de SI e colocá-las em prática se forem aprovadas; buscar aperfeiçoar o patrimônio de TI, bem como garantir seu bom estado.
 
 #### 3. EACH
@@ -56,7 +58,6 @@ O projeto pedagógico da EACH caracteriza-se pela promoção da integração ent
 A EACH tem como princípio norteador promover uma forte interação com as comunidades da zona leste. Ao lado das atividades culturais e esportivas, propõe-se a desenvolver diversos programas de extensão, como cursos de aperfeiçoamento e projetos de pesquisa voltados para a solução de problemas locais, além de proporcionar maior acesso às facilidades laboratoriais em diversas áreas, como ciências, artes, informática, sensoriamento remoto e ensino de línguas.
 2.1 Prédios da EACH
 A EACH é um espaço bem grande, e por isso, é bem fácil para você, bixo ou bixete, ficar perdido nele nos primeiros dias. Para te ajudar, vale sempre ficar de olho no mapa. Os números em vermelho são de partes que ainda não foram construídas (quem sabe um dia?)
-
 
 Durante seu período na EACH você vai frequentar alguns prédios entre eles os principais são: Titanic, CB, Elefante Branco. Além disso também temos a Biblioteca, os Auditórios e o Ginásio.
 
