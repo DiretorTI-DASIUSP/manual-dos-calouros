@@ -6,6 +6,88 @@
 ## Seja bem-vindo ao manual dos calouros do curso de S.I. da EACH-USP!
 
 ### Sumário
+
+##### 1. TÓPICOS PRINCIPAIS 5
+2. INTRODUÇÃO	6
+2.1 As Áreas do DASI	7
+2.1.1 Administrativo	7
+2.1.2 Acadêmico	7
+2.1.3 Comercial	8
+2.1.4 Esportivo	8
+2.1.5 Eventos	8
+2.1.6 Financeiro	9
+2.1.7 Marketing	9
+2.1.8 TI	10
+3. EACH	10
+3.1 Prédios da EACH	11
+4. SEMANA DE RECEPÇÃO	14
+5. UTILIDADES NA EACH	15
+5.1. Cartão USP	15
+5.2. Bilhete Único	16
+5.3. Links úteis	16
+5.3.1. TIDIA-AE (Cursos On-line)	16
+5.3.3. Jupiter Web	17
+5.3.4. Calisto Web	17
+5.4. Biblioteca	18
+5.5. Laboratórios e Cota de Impressão	18
+5.6. Bandejão	19
+5.8. Seção de Graduação	19
+5.9. Microsoft Imagine	20
+5.10. Softwares da Jetbrains	20
+6. O CURSO DE SI	20
+6.1 Estágios	21
+6.2. Iniciação Científica	22
+CNPq	22
+Ensinar com Pesquisa	23
+FAPESP	23
+IC Voluntária	23
+6.3 Intercâmbios	24
+Programas de Intercâmbio oferecidos exclusivamente pela USP	25
+Bolsa Santander USP	25
+6.4 Entidades, grupos e RD’s	25
+PET- SI	25
+Síntese  Jr.	26
+EACH GameDev	26
+TechnoMakers EACH	26
+Web/Dev	27
+Representantes Discentes (RD's)   	27
+6.5 Créditos e Pré-requisitos	27
+7. ASSUNTOS DO COTIDIANO	28
+7.1 - Permanência na faculdade - PAPFE - COSEAS	28
+7.2 - Transporte	29
+CPTM/METRÔ	29
+Ônibus/Lotação (SPTrans)	31
+Caronas	32
+7.3. Moradia	32
+Avenida Assis Ribeiro (Alturas próximas à EACH)	32
+Engenheiro Goulart (Uma estação antes da USP Leste, na linha 12 Safira, sentido Calmon Viana)	33
+Tatuapé (Estação da linha vermelha do metrô e acesso à linha 12 Safira, a da USP Leste)	33
+7.4. Lanchonete	34
+Keralux (Comunidade ao lado do campus USP Leste)	34
+Assis Ribeiro/Estação USP Leste	34
+Especial para repúblicas no Tatuapé	35
+8. CIDADE UNIVERSITÁRIA	36
+8.1. Cursos de Extensão	36
+8.2. Lazer, Cultura e Esportes	36
+9. VIDA UNIVERSITÁRIA	36
+9.1 Onde e como estudar?	36
+9.1.1. Monitorias	37
+9.1.2. Sufoco	37
+9.1.3. Dojo	38
+9.1.4. Minicurso de Lógica	38
+9.2 Esportes	39
+9.2.2. Intercomp	39
+9.3. E a diversão?	40
+9.3.1. Semana de Sistemas de Informação	41
+9.3.2. Festas do DASI – Glow in Each e Eachian Horror Story – Madness	42
+9.3.3. Centro Acadêmico	42
+9.4. Hinos	43
+Grifo	43
+Me dê limão	43
+Sou da EACH	44
+Ser feliz na USP	44
+10. CRÉDITOS
+
 #### 1. Tópicos principais
 Pra facilitar sua vida, bixão ou bixete, abaixo estão os tópicos mais importantes. Lembramos que o manual foi feito para fazer com que vocês fiquem um pouco mais espertinhos nesse começo do curso, então ler só os tópicos principais não vai adiantar muito  ¯\_(ツ)_/¯  mas pelo menos vai conhecer o mínimo que precisa.
 
