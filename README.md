@@ -11,9 +11,9 @@
 
 2. INTRODUÇÃO
 
-   2.1 As Áreas do DASI
+   1. As Áreas do DASI
    
-      2.1.1 Administrativo
+      1. Administrativo
    
       2.1.2 Acadêmico
    
