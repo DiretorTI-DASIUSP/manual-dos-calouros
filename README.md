@@ -8,9 +8,13 @@
 ### Sumário
 
 **1. TÓPICOS PRINCIPAIS**
+
 **2. INTRODUÇÃO**
+
    **2.1 As Áreas do DASI**
+   
    **2.1.1 Administrativo**
+   
 ##### 2.1.2 Acadêmico
 ##### 2.1.3 Comercial
 ##### 2.1.4 Esportivo
