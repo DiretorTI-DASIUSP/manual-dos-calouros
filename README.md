@@ -15,155 +15,155 @@
    
       1. Administrativo
    
-      2.1.2 Acadêmico
+      2. Acadêmico
    
-      2.1.3 Comercial
+      3. Comercial
    
-      2.1.4 Esportivo
+      4. Esportivo
    
-      2.1.5 Eventos
+      5. Eventos
    
-      2.1.6 Financeiro
+      6. Financeiro
 
-      2.1.7 Marketing
+      7. Marketing
 
-      2.1.8 TI
+      8. TI
 
 3. EACH
    
-   3.1 Prédios da EACH
+   1. Prédios da EACH
 
 4. SEMANA DE RECEPÇÃO
 
 5. UTILIDADES NA EACH
 
-   5.1. Cartão USP
+   1. Cartão USP
 
-   5.2. Bilhete Único
+   2. Bilhete Único
 
-   5.3. Links úteis
+   3. Links úteis
 
-      5.3.1. TIDIA-AE (Cursos On-line)
+      1. TIDIA-AE (Cursos On-line)
 
-      5.3.3. Jupiter Web
+      3. Jupiter Web
 
-      5.3.4. Calisto Web
+      4. Calisto Web
 
-   5.4. Biblioteca
+   4. Biblioteca
 
-   5.5. Laboratórios e Cota de Impressão
+   5. Laboratórios e Cota de Impressão
 
-   5.6. Bandejão
+   6. Bandejão
 
-   5.7. Seção de Graduação
+   7. Seção de Graduação
 
-   5.8. Microsoft Imagine
+   8. Microsoft Imagine
 
-   5.9. Softwares da Jetbrains
+   9. Softwares da Jetbrains
 
 6. O CURSO DE SI
 
-   6.1 Estágios
+   1. Estágios
 
-   6.2. Iniciação Científica
+   2. Iniciação Científica
 
-      6.2.1. CNPq
+      1. CNPq
 
-      6.2.2. Ensinar com Pesquisa
+      2. Ensinar com Pesquisa
 
-      6.2.3. FAPESP
+      3. FAPESP
 
-      6.2.4. IC Voluntária
+      4. IC Voluntária
 
-   6.3 Intercâmbios
+   3. Intercâmbios
+   
+      1. Programas de Intercâmbio oferecidos exclusivamente pela USP
 
-      6.3.1. Programas de Intercâmbio oferecidos exclusivamente pela USP
+      2. Bolsa Santander USP
 
-      6.3.2. Bolsa Santander USP
+   4. Entidades, grupos e RD’s
 
-   6.4 Entidades, grupos e RD’s
+      1. PET- SI
 
-      6.4.1. PET- SI
+      2. Síntese  Jr.
 
-      6.4.2. Síntese  Jr.
+      3. EACH GameDev
 
-      6.4.3. EACH GameDev
+      4. TechnoMakers EACH
 
-      6.4.4. TechnoMakers EACH
+      5. Web/Dev
 
-      6.4.5. Web/Dev
+      6. Representantes Discentes (RD's)
 
-      6.4.6. Representantes Discentes (RD's)
-
-   6.5 Créditos e Pré-requisitos
+   5. Créditos e Pré-requisitos
 
 7. ASSUNTOS DO COTIDIANO
 
-   7.1 Permanência na faculdade - PAPFE - COSEAS
+   1. Permanência na faculdade - PAPFE - COSEAS
 
-   7.2 Transporte
+   2. Transporte
 
-      7.2.1. CPTM/METRÔ
+      1. CPTM/METRÔ
 
-      7.2.2. Ônibus/Lotação (SPTrans)
+      2. Ônibus/Lotação (SPTrans)
 
-      7.2.3. Caronas
+      3. Caronas
 
-   7.3. Moradia
+   3. Moradia
 
-      7.3.1. Avenida Assis Ribeiro (Alturas próximas à EACH)
+      1. Avenida Assis Ribeiro (Alturas próximas à EACH)
 
-      7.3.2. Engenheiro Goulart (Uma estação antes da USP Leste, na linha 12 Safira, sentido Calmon Viana)
+      2. Engenheiro Goulart (Uma estação antes da USP Leste, na linha 12 Safira, sentido Calmon Viana)
 
-      7.3.3. Tatuapé (Estação da linha vermelha do metrô e acesso à linha 12 Safira, a da USP Leste)
+      3. Tatuapé (Estação da linha vermelha do metrô e acesso à linha 12 Safira, a da USP Leste)
 
-   7.4. Lanchonete
+   4. Lanchonete
 
-      7.4.1. Keralux (Comunidade ao lado do campus USP Leste)
+      1. Keralux (Comunidade ao lado do campus USP Leste)
 
-      7.4.2. Assis Ribeiro/Estação USP Leste
+      2. Assis Ribeiro/Estação USP Leste
 
-      7.4.3. Especial para repúblicas no Tatuapé
+      3. Especial para repúblicas no Tatuapé
 
 8. CIDADE UNIVERSITÁRIA
 
-   8.1. Cursos de Extensão
+   1. Cursos de Extensão
 
-   8.2. Lazer, Cultura e Esportes
+   2. Lazer, Cultura e Esportes
 
 9. VIDA UNIVERSITÁRIA
 
-   9.1 Onde e como estudar?
+   1. Onde e como estudar?
 
-      9.1.1. Monitorias
+      1. Monitorias
 
-      9.1.2. Sufoco
+      2. Sufoco
 
-      9.1.3. Dojo
+      3. Dojo
 
-      9.1.4. Minicurso de Lógica
+      4. Minicurso de Lógica
 
-   9.2 Esportes
+   2. Esportes
 
-      9.2.2. Intercomp
+      2. Intercomp
 
-   9.3. E a diversão?
+   3. E a diversão?
 
-      9.3.1. Semana de Sistemas de Informação
+      1. Semana de Sistemas de Informação
 
-      9.3.2. Festas do DASI – Glow in Each e Eachian Horror Story – Madness
+      2. Festas do DASI – Glow in Each e Eachian Horror Story – Madness
 
-      9.3.3. Centro Acadêmico
+      3. Centro Acadêmico
 
-   9.4. Hinos
+   4. Hinos
 
-      9.4.1. Grifo
+      1. Grifo
 
-      9.4.2. Me dê limão
+      2. Me dê limão
 
-      9.4.3. Sou da EACH
+      3. Sou da EACH
 
-      9.4.4. Ser feliz na USP
+      4. Ser feliz na USP
 
 10. CRÉDITOS
 
