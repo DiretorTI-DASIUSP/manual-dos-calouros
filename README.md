@@ -219,19 +219,24 @@ Esse setor é responsável por: desenvolver, implementar e manter as ferramentas
 A Escola de Artes, Ciências e Humanidades (EACH), localizada no campus USP Leste, é uma unidade de ensino, pesquisa e extensão da Universidade de São Paulo. Foi inaugurada no dia 27 de fevereiro de 2005 e pertence ao segmento leste do campus da Capital da Universidade de São Paulo.
 O projeto pedagógico da EACH caracteriza-se pela promoção da integração entre as diversas áreas do conhecimento e, por extensão, de seus onze cursos. Por isso, diferente de muitas unidades da Universidade de São Paulo, ela não é dividida em departamentos, possuindo apenas coordenações de cursos e a coordenação do Ciclo Básico.
 A EACH tem como princípio norteador promover uma forte interação com as comunidades da zona leste. Ao lado das atividades culturais e esportivas, propõe-se a desenvolver diversos programas de extensão, como cursos de aperfeiçoamento e projetos de pesquisa voltados para a solução de problemas locais, além de proporcionar maior acesso às facilidades laboratoriais em diversas áreas, como ciências, artes, informática, sensoriamento remoto e ensino de línguas.
-##### 3.1 Prédios da EACH
+##### i. Prédios da EACH
 A EACH é um espaço bem grande, e por isso, é bem fácil para você, bixo ou bixete, ficar perdido nele nos primeiros dias. Para te ajudar, vale sempre ficar de olho no mapa. Os números em vermelho são de partes que ainda não foram construídas (quem sabe um dia?)
 Durante seu período na EACH você vai frequentar alguns prédios entre eles os principais são: Titanic, CB, Elefante Branco. Além disso também temos a Biblioteca, os Auditórios e o Ginásio.
-###### Titanic (I1)
+###### a. Titanic (I1)
 Nesse prédio é onde você tem a grande maioria de suas aulas, é nele que estão: a sala do DASI, as salas das EJS, a sala do PET, nosso querido bandejão (<3), o serviço de graduação e as salas de alguns professores.
-###### CB (Ciclo básico)
+###### b. CB (Ciclo básico)
 Aqui você vai ter as aulas do CB, também estão aqui: A lanchonete, os laboratórios para uso dos alunos, o laboratório para impressão e o deque - ou o que sobrou dele... :(
-###### Elefante Branco (A1)
+###### c. Elefante Branco (A1)
 Neste prédio estão as salas dos professores. Além disso é um lugar tranquilo para estudar, tirar uma soneca, ir ao banheiro ou dar uns beijinhos rs.
-###### Incubadora Tecnológica e Social
+###### d. Incubadora Tecnológica e Social
 Habitat de inovação tecnológica e social é uma incubadora que abriga novas empresas dando apoio para que elas se desenvolvam. É um espaço aberto aos estudantes e conta com alguns eventos englobando o empreendedorismo.
 
 #### 4. Semana de recepção
+“Finalmente o estresse do vestibular passou. Entrei na USP, melhor universidade da América Latina… Mas e agora, como que as coisas funcionam?” Acredite, essa pergunta é bem mais comum do que você imagina… E é para solucionar todas as dúvidas relacionadas a esse assunto que a semana de recepção existe! 
+A semana de recepção dos calouros existe justamente para auxiliar e explicar para você como as coisas funcionam na USP. Contando com uma programação oficial organizada especialmente para você, a semana conta com uma série de palestras realizadas para te introduzir nesse universo do qual você fará parte, ao menos, pelos próximos quatro anos. As palestras em si vão desde boas-vindas, até palestras sobre os grupos de pesquisa, projetos de extensão, e sobre entidades geridas unicamente por alunos, como é o caso dos Centros Acadêmicos (ou Diretórios Acadêmicos, como o DASI), das Empresas Juniores, da Atlética, etc. Tudo feito com a intenção de deixá-lo menos perdido.
+Mas as coisas não param por aí… Além da programação oficial, algumas entidades organizam uma programação “extraoficial”, minuciosamente preparada para acolhê-lo da melhor forma possível, contando com atividades que vão desde festas de recepção até o tão famoso pedágio. Ressaltamos que ninguém é obrigado a fazer nada, e apesar de o trote parecer assustador para muitos, a ideia é que o trote universitário nada mais é do que uma forma de recepção e integração entre bixos, bixetes, veteranos e veteranas. Em nossa programação, você verá que as atividades são tranquilas, divertidas, e vale muito a pena participar. No fim das contas, só queremos boas lembranças e que todos os calouros entrem com o pé direito na universidade.
+Lembrando que não é somente você que está perdido. São cerca de 180 ingressantes no Sistemas de Informação que estão na mesma situação que a sua. E a semana de recepção também serve para integrar essas pessoas entre si, fazendo com que você conheça aqueles que vão lhe acompanhar pela jornada acadêmica. Além disso, é uma oportunidade muito legal de conhecer seus veteranos, que poderão auxiliar a resolver diretamente seus dilemas e conflitos durante os anos de faculdade (acredite, é muito útil ter um veterano por perto!).
+
 #### 5. Utilidades na EACH
 #### 6. O curso de S.I.
 #### 7. Assuntos do cotidiano
