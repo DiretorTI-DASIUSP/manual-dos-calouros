@@ -172,19 +172,19 @@
 #### 1. Tópicos principais
 Pra facilitar sua vida, bixão ou bixete, abaixo estão os tópicos mais importantes. Lembramos que o manual foi feito para fazer com que vocês fiquem um pouco mais espertinhos nesse começo do curso, então ler só os tópicos principais não vai adiantar muito  ¯\_(ツ)_/¯  mas pelo menos vai conhecer o mínimo que precisa.
 
-***3.1. Prédios da EACH - você tem que saber pra onde está indo, né?***
+***3.a. Prédios da EACH - você tem que saber pra onde está indo, né?***
 
 ***4. Semana de recepção***
 
-***5.6. Bandejão - <3***
+***5.f. Bandejão - <3***
 
-***7.1. Permanência na faculdade - PAPFE - COSEAS - se você vai precisar de auxílio estudantil, preste muita atenção neste tópico!***
+***7.a. Permanência na faculdade - PAPFE - COSEAS - se você vai precisar de auxílio estudantil, preste muita atenção neste tópico!***
 
-***7.5. Guia Gourmet EACHiano - importantíssimo***
+***7.e. Guia Gourmet EACHiano - importantíssimo***
 
-***9.2. Esportes - e Intercomp!***
+***9.b. Esportes - e Intercomp!***
 
-***9.3. E a diversão? - afinal pra quê estamos aqui?***
+***9.c. E a diversão? - afinal pra quê estamos aqui?***
 
 #### 2. Introdução
 O Diretório Acadêmico de Sistemas de Informação (DASI) lhe dá os parabéns e deseja boas-vindas ao seu primeiro ano no curso de Sistemas de Informação (SI), na Escola de Artes, Ciências e Humanidades da Universidade de São Paulo (EACH-USP).
@@ -194,7 +194,7 @@ O DASI é uma entidade de representação do curso formada por alunos. Como voc�
 Como nos livros da famosa série que inspira a paródia do título, o "Calculus for Dummies", "Java for Dummies" e vários outros, buscamos tomar seu tempo de leitura apenas com dicas rápidas e úteis, todas separadas por seções e facilmente localizadas pelo sumário.
 Aproveite esta oportunidade para descobrir mais sobre o "mundo de SI na USP". Sinta-se à vontade para conversar com qualquer membro do DASI, para tirar dúvidas, dar sugestões, conhecer nosso trabalho ou fazer parte da equipe. 
 Para mais informações, acesse nossa página do Facebook www.facebook.com/DASIUSP ou nosso site em www.dasiusp.com. Se preferir ou não encontrar o que precisava, mande um e-mail para contato@dasiusp.com.
-##### 2.1 As Áreas do DASI
+##### 1. As Áreas do DASI
 Assim que você entrar em contato com o DASI, vai perceber que existem muitas pessoas que fazem parte da entidade. Então, por isso, para ajudar a organizar as coisas que fazemos para vocês, alunxs, nos dividimos em diversas áreas. São elas:
 ###### 2.1.1 Administrativo
 Esse setor é responsável pela busca de patrocínio esportivo, acadêmico e administrativo para produtos e eventos do DASI manter a Integração com outras atléticas, CA’s e DA’s gerando parcerias de proveito bilateral, no campo acadêmico, esportivo, administrativo e estratégico sempre visando benefício para os alunos de Sistemas de Informação além de ajudar na criação e comercialização de produtos que atendam as expectativas dos alunos e zelar que o patrimônio do DASI esteja de acordo com a lei.
