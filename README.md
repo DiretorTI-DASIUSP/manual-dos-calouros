@@ -72,8 +72,10 @@
       2. Ensinar com Pesquisa
 
       3. FAPESP
+      
+      4. PUB
 
-      4. IC Voluntária
+      5. IC Voluntária
 
    3. Intercâmbios
    
