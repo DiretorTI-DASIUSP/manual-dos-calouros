@@ -338,6 +338,114 @@ Os pré-requisitos fracos permitem que você curse a disciplina desde que tenha 
 Os pré-requisitos fortes, por sua vez, apenas permitem que você curse certa matéria apenas se você for aprovado, isto é, com uma nota 5 ou superior na matéria que é requisito. Por exemplo, apenas é possível cursar Cálculo II se você for aprovado em Cálculo I.
 
 #### 7. Assuntos do cotidiano
+##### i. Permanência na faculdade - PAPFE - COSEAS
+Para ajudar em sua permanência na faculdade, a USP conta com alguns programas de bolsas e auxílios para estudantes que precisem de complementação de renda durante a graduação.
+O PAPFE (Programa de Apoio à Permanência e Formação Estudantil) é um dos responsáveis por distribuir bolsas de auxílio-moradia, auxílio-alimentação, auxílio-transporte e auxílio-livros. Desta forma, você, aluno do primeiro ano que precisa de complementação de renda, pode dedicar seu tempo aos estudos e oportunidades da USP. Abaixo estão os valores concedidos em cada bolsa.
+
+* Moradia: Auxílio financeiro no valor de R$ 400,00 por mês por até 12 meses (a depender da classificação socioeconômica);
+* Alimentação: Isenção no pagamento de refeições nos Restaurantes Universitários por até 12 meses;
+* Manutenção: Pagamento mensal de R$ 200,00 por até 12 meses. Este auxílio existe somente na EACH por conta da luta dos representantes discentes.
+* Livros: Crédito mensal na Editora da USP, equivalente a R$ 150,00 por até 12 meses. A Bolsa Livros não é paga nos meses não letivos (Julho e Janeiro).
+
+As bolsas são destinadas a alunos que se enquadram dentro de determinadas condições socioeconômicas pontuadas pela COSEAS (Coordenadoria de Assistência Social). Não tenha vergonha! Se estiver passando por dificuldades, lembre-se: a USP não te deixará na mão.
+Mas fique esperto, existe um prazo para o período de inscrições, que você pode conferir no próprio JupiterWeb. As inscrições são feitas no JupiterWeb (http://uspdigital.usp.br/jupiterweb), em ‘Gestão de Bolsas’, ‘Inscrições PAPFE’.
+Caso tenha o interesse de saber mais sobre tais benefícios, entre no site da COSEAS, vá à sala do setor ou, se preferir, entre em contato com as assistentes sociais do campus USP Leste:
+
+Site: http://www5.each.usp.br/apresentacao-sas/
+Sala: USP Leste – Prédio I1 (Titanic) – Sala T 01. 
+Telefone: (11) 3091-1007.
+E-mail: coseas-each@usp.br
+Assistentes sociais da EACH: Ieda de Menezes Reis - iedareis@usp.br e Priscila Cristina da Silva Cintra - priscilacris@usp.br.
+
+##### ii. Transporte
+A EACH se localiza na rua Arlindo Béttio, número 1000, no distrito de Ermelino Matarazzo.
+###### a. CPTM/METRÔ
+A EACH é diretamente ligada por uma passarela à estação “USP Leste”, que fica na linha 12 - Safira da CPTM. Esta linha pode ser acessada pelas estações Brás e Tatuapé, da linha 3 - Vermelha do Metrô ou Linha 11 - Coral da CPTM, assim como pela estação Calmon Viana da linha 12 - Safira da CPTM.
+Na estação Brás, a integração entre o Metrô e a CPTM é gratuita durante todo o dia, todos os dias da semana. Já na estação Tatuapé, desde o fim do ano de 2012, o programa “Integração Gratuita” libera a integração com as linhas Coral e Safira em determinados períodos. Abaixo os dias e horários desta integração.
+
+* Segunda a sexta-feira: das 10h às 17h e das 20h às 24h.
+* Sábados: das 15h à 1h.
+* Domingos e feriados: em todo o período de funcionamento.
+
+Para os que acabaram de chegar em São Paulo, fiquem espertos com os horários de funcionamento do Metrô e da CPTM:
+
+* Metrô
+   * Domingo a sexta-feira: 4h40 às 0h.
+   * Sábado para domingo: 4h40 às 1h.
+* CPTM
+   * Todos os dias: 4h às 0h.
+   
+Tão importante quanto saber os horários de funcionamento, é saber os horários de pico e também evitá-los, se possível. No transporte ferroviário de São Paulo o bicho pega DE VERDADE (não você! Bixo não pega ninguém!), de manhã, no sentido centro e no fim da tarde no sentido bairro.
+Para os que moram próximo às estações do Metrô ou da própria linha Safira, provavelmente o conjunto Metrô/CPTM é a melhor opção. Mas o que fazer em dias de greve do Metrô e/ou da CPTM? 
+Não se preocupe, isso ocorre uma ou duas vezes por ano - e algumas vezes é só ameaça -, então quando souber de algum boato, busque nos sites oficiais das instituições:
+
+* SPTrans (ônibus) - http://www.sptrans.com.br/
+* Metrô - http://www.metro.sp.gov.br/
+* CPTM - http://www.cptm.sp.gov.br/
+
+###### b. Ônibus/Lotação (SPTrans)
+Bom, temos diversas opções para chegar até a EACH utilizando linhas de ônibus e lotações. Falaremos da mais “comum”, que é a lotação 2735-10 Metrô Penha/Jardim Keralux. Trata-se de uma boa opção para quem tem acesso ao metrô Penha, na Linha 3 - Vermelha do Metrô. Essa lotação irá lhe deixar no portão P1, próximo à biblioteca. O melhor é que o ponto inicial fica lá mesmo no metrô Penha, então fora do horário de pico (aproximadamente entre  17:00 e 19:00 em dias de semana) você consegue ir sentado sem grandes dificuldades.
+Além do nosso querido Keralux, há diversas outras linhas que partem de vários lugares da cidade, todas elas deixando você no ponto da Av. Dr. Assis Ribeiro, que fica em frente à Estação USP Leste:
+
+Nº Linha			Ida					Volta
+1178-10		Praça do Correio			São Miguel
+1178-31		Praça do Correio			São Miguel
+2582-10		Terminal Pq. D. Pedro II		Vila Nova Curuçá
+2590-10		Terminal Pq. D. Pedro II		União de Vila Nova
+2551-10		Terminal Pq. D. Pedro II		Term. A.E. Carvalho
+374M-10		Metrô Itaquera			CPTM Ermelino Matarazzo
+
+Mas vale lembrar que temos sempre o serviço do Google Maps para nos ajudar. Em São Paulo o serviço de rotas de transporte público funciona muito bem e lá também é possível obter informações sobre o intervalo entre ônibus/trens.
+Caronas
+Se você mora em algum lugar onde o acesso não é tão fácil pelos meios apresentados, ou apenas gostaria do conforto de não se sentir em uma lata de sardinha, apareça na Semana de Recepção e conheça seus veteranos e padrinhos. Eles poderão conhecer alguém que mora próximo de você para que possam combinar caronas.
+
+##### iii. Moradia
+Você está se mudando para a cidade de São Paulo ou migrando para a Zona “Lost”? Se não sabe onde procurar algum lugar para morar próximo à EACH, fique tranquilo, pois este tópico foi criado para você que está saindo de baixo da asa da mamãe.
+Aqui vão algumas dicas para escolher algo que caiba no seu bolso, que não te faça cruzar a cidade toda para ir até a faculdade e que possa lhe fornecer serviços básicos, como mercado, farmácia, restaurantes e afins.
+As regiões mais habitadas por EACHianos fora do lar são:
+Avenida Assis Ribeiro (Alturas próximas à EACH)
+O custo de vida não é tão alto, você vai encontrar alguns bares e restaurantes na região e o supermercado Rossi. As coisas são um pouco longe umas das outras, porém você chegará muito rapidamente na EACH.
+Engenheiro Goulart (Uma estação antes da USP Leste, na linha 12 Safira, sentido Calmon Viana)
+O custo de vida é próximo ao das proximidades da EACH e a variedade de serviços é muito maior perto desta estação. Várias repúblicas, restaurantes de preço acessível, padaria, farmácia, entre outros. Fora que estará mais próximo de uma linha de trem.
+Tatuapé (Estação da linha vermelha do metrô e acesso à linha 12 Safira, a da USP Leste)
+Aqui o custo de vida já é mais elevado, mas é possível achar repúblicas ou dividir apartamento, diminuindo o custo de vida. Em compensação, você terá acesso a dois shoppings (Metrô Tatuapé e  Boulevard Tatuapé), onde encontrará de tudo. A região também é boa, segura e cheia de variedades. Além disso, é muito fácil ir tanto para a CPTM quanto pro Metrô, o que melhora bastante a ida para a EACH e outros locais mais próximos ao centro da cidade. É o lugar mais indicado para morar!
+No grupo “Estudantes da EACH” no Facebook (https://www.facebook.com/groups/estudantes.each.usp/) costuma-se anunciar vagas de repúblicas no começo do ano e de tempos em tempos, vale a pena dar uma conferida. 
+Além disso, existe o grupo “Repúblicas - EACH USP” (https://www.facebook.com/groups/271732549563970/) e vale mais a pena perguntar por lá. Outra boa forma para encontrar um lugar para morar é comparecer na Semana de Recepção e conversar com seus veteranos de SI, eles com certeza vão conhecer pessoas que tenham vagas em suas repúblicas.
+##### iv. Lanchonete
+Existem duas lanchonetes na EACH, onde você vai perder todo o seu dinheiro. Uma está localizada no prédio do Ciclo Básico (CB) e a outra, no prédio dos anfiteatros. Prepare-se para nunca perder o horário do bandex, pois tentar substituir o prato de pedreiro do nosso amado refeitório por algum(s) salgado(s) na cantina pode ser frustrante, vai continuar com fome e quando perceber lá se foi a mesada que o papai te deu. Fica esperto!
+E é para você que um convidado especial, grande entendedor das iguarias locais, idealizou o próximo tópico.
+##### v. Guia Gourmet EACHiano
+Keralux (Comunidade ao lado do campus USP Leste)
+Padoca - Rua Arlindo Béttio, 248
+“A padoca é uma ótima opção, apesar de ser a mais longe de todas, tem preços bem acessíveis!”.
+Ruk’s Lanches - Rua Arlindo Béttio, 71
+“Lanchões gordurosos e baratos, além de ser uma ótima opção para os dias que servem peixe no bandejão. Recomendo comer o X-desafio!”
+Baião de dois - Rua Arlindo Béttio, um pouco depois do Ruk’s
+“Dá pra comer MUITO.”
+Assis Ribeiro/Estação USP Leste
+Rossi - Rua Araçazal, 10
+“É um supermercado, tem breja, tem vodka e comida! Os croissants são GRANDES e baratos e você não morre por comer lá! Recomendo os croissants de queijo e bauru!”
+Pastelaria - Rua Araçazal, 10 - Dentro do Rossi
+“Pastel frito na hora e também tem caldo de cana, é o típico pastel de feira... dentro de um supermercado! Preço normal de pastel, com qualidade normal de pastel de feira dentro de um mercado.”
+Churrasquinho - Rua Araçazal, 10 - Fora do Rossi
+“Churrasquinho de rua - é muito bom, mas não pode ter nojinho!”
+Especial para repúblicas no Tatuapé
+Dogão na Praça Silvio Romero
+“Dogão 24h salva qualquer rolê.”
+Gela Guela - Rua Itapura, 790
+“Tem porções enormes e em conta.”
+Kroke Salgados - Rua André Vidal, 158 
+“Vende todos os tipo de salgados, você consegue comprar em grandes quantidades sem pedir com antecedência e ainda pode escolher se quer salgado já frito ou congelado. Salva alguns rolês.”
+	Além dessas opções fora da EACH, dentro da EACH encontramos uma variedade de vendedores de boas comidinhas como lanches naturais, trufas, tortas, etc. Entre no grupo do facebook, Comidinhas EACH-USP (https://www.facebook.com/groups/183243118737649/). Fique atento, SEMPRE haverá uma boa comidinha perto de você!
+	Agora que já falamos da comida, vamos para o que importa: 
+Bares
+Panela Show -  Ao lado da estação Usp Leste
+“Típico buteco, cerveja barata, muito bom para jogar um truco de vez em quando. Também é lá que acontecem muitas festas EACHianas.”
+Bar do Baixinho -  Fica ao final da rua Sen. Elói de Souza. (Rua em frente a estação Usp Leste)
+“Tradicional bar do convívio EACHiano, já faz parte da história da faculdade. Conta até com o Dia Mundial do Bar do Baixinho, 17 de agosto. Além de contar com a simpatia do dono (o Baixinho).”
+Wilsons’s Bar - R. Tuiuti, 1419 - Tatuapé
+“Provavelmente você vai encontrar bastante gente da EACH por lá”
+
 #### 8. Cidade universitária
 #### 9. Vida universitária
 #### 10. Créditos
