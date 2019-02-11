@@ -277,19 +277,19 @@ Por ser estudante, você tem acesso gratuito (apenas para estudos) a todas as fe
 #### 6. O curso de S.I.
 Bem, chegou a hora de você saber um pouco mais sobre o curso em que você acabou de entrar! Como você já deve ter notado, o curso de Sistemas de Informação é sediado na Escola de Artes, Ciências e Humanidades, no campus da USP Leste. Porém, uma coisa que talvez você não saiba são os diferenciais dessa Escola, uma vez que ela tem uma estrutura um pouco diferente das demais unidades da USP. O projeto pedagógico da EACH é caracterizado por ter uma ideia de multidisciplinaridade entre os cursos.
 O Ciclo Básico (CB) da EACH difere-se por ser justamente a aplicação dessa proposta multidisciplinar. Todos os cursos da EACH têm as seguintes matérias em comum pelo CB:
-*Ciências da Natureza
-*Tratamento e Análise de Dados / Informações
-*Sociedade, Multiculturalismo e Direitos
-*Resolução de Problemas I e II
-*Psicologia, Educação e Temas Contemporâneos
-*Sociedade, Meio Ambiente e Cidadania
-*Arte, Literatura e Cultura no Brasil
+* Ciências da Natureza
+* Tratamento e Análise de Dados / Informações
+* Sociedade, Multiculturalismo e Direitos
+* Resolução de Problemas I e II
+* Psicologia, Educação e Temas Contemporâneos
+* Sociedade, Meio Ambiente e Cidadania
+* Arte, Literatura e Cultura no Brasil
 Enquanto nos outros cursos essas disciplinas são cursadas durante o primeiro ano, em SI elas estão espalhadas ao longo curso.
-5.1 Estágios
+6.1 Estágios
 A USP oferece dois tipos de estágio, os obrigatórios e os não obrigatórios. Os não obrigatórios, como o próprio nome já diz, são opcionais e os alunos apenas precisam seguir as normas que se encontram no site da EACH (www.each.usp.br). Não é recomendado fazer estágios não assinados pela USP, pois eles podem prejudicar seu desempenho acadêmico e, caso isso aconteça, você pode perder muitas oportunidades, como Iniciações Científicas e até Intercâmbios.
 Os estágios obrigatórios, por sua vez, são necessários para os estudantes que estão concluindo o curso. Como você acabou de entrar, ainda é cedo para pensar nisso, mas saiba que o aluno pode optar por fazer um projeto de estágio ou Trabalho de Conclusão de Curso (TCC) quando for concluir o curso. 
 Há alguns meios de “trocar” ou “remover” essa obrigatoriedade de fazer o estágio ou o TCC ao final do curso. A USP entende que cada ano de Iniciação Científica realizado equivale a seis meses de TCC ou um estágio. Ou seja, se você faz um ano de Iniciação Científica durante sua graduação, você precisará de apenas seis meses de estágio obrigatório ou de TCC.
-5.2. Iniciação Científica
+6.2. Iniciação Científica
 Iniciações Científicas são projetos de pesquisas cujo conteúdo é desenvolvido por um aluno devidamente orientado por um professor. Geralmente esses projetos são financiados por instituições que trabalham em conjunto com a Universidade de São Paulo e, logo, em alguns casos você recebe um pequeno auxílio para realizar as pesquisas. Mas vale salientar que também é possível fazer Iniciações Científicas voluntárias em que você executa praticamente as mesmas coisas que um bolsista, só que não recebe por isso. Veja abaixo algumas modalidades de IC.
 CNPq
 O Conselho Nacional de Desenvolvimento Científico e Tecnológico oferece, atualmente, dois programas distintos de Iniciação Científica: o Programa Institucional de Bolsas de Iniciação Científica (PIBIC) e o Programa Institucional de Bolsas de Iniciação em Desenvolvimento Tecnológico e Inovação (PIBITI). As bolsas conferidas pelo CNPq são, geralmente, baseadas em mérito acadêmico. As bolsas são destinadas a alunos a partir do 3º Semestre (segundo ano), podendo concorrer a elas a partir de abril do ano letivo, e o critério de seleção é baseado na nota (ou média ponderada).
@@ -301,7 +301,7 @@ PUB
 O PUB (Programa Unificado de Bolsas) é um edital da USP que concede bolsas não só para projetos de pesquisa, mas também para ensino, cultura e extensão. Neste edital, os professores-pesquisadores enviam os projetos para o programa para que os alunos possam se inscrever em até 2 deles dos quais PODERÃO ser escolhidos. O Edital é lançado via Júpiter geralmente depois maio.
 IC Voluntária
 Para realizar uma Iniciação Científica, o aluno não precisa, necessariamente, estar vinculado a uma instituição de pesquisa (CNPq ou FAPESP, por exemplo), uma vez que a Comissão de Pesquisa da EACH abriu a possibilidade de reconhecer um período de Iniciação Científica realizado de forma voluntária, sem bolsa. Para obter a devida certificação e reconhecimento, basta que o aluno tenha realizado um período de, pelo menos, seis meses de pesquisas e tenha atingido as devidas exigências estabelecidas pela Comissão.
-5.3 Intercâmbios
+6.3 Intercâmbios
 Um desejo comum entre muitos estudantes de graduação é estudar um tempo no exterior. Afinal, viver um período com uma cultura diferente e sozinho deve ser uma experiência única, não? Mas relembramos a importância de um bom desempenho acadêmico do aluno para que esse “sonho” possa se tornar realidade. Veja abaixo alguns dos programas de intercâmbios de que você pode se beneficiar. 
 Procure saber quais deles oferecem auxílio financeiro durante o período do intercâmbio: dependendo do programa e do edital, você pode conseguir desde as passagens de avião até uma bolsa mensal para você sobreviver lá fora.
 
@@ -312,7 +312,7 @@ Programas de Intercâmbio oferecidos exclusivamente pela USP
 O Programa de Bolsas de Intercâmbio para Alunos de Graduação oferece mais de 1.000 bolsas de estudos para alunos de graduação terem a oportunidade de estudar no exterior. O projeto é inédito entre as universidades brasileiras e as bolsas estão distribuídas entre duas agências: Aucani e Auspin.
 Bolsa Santander USP
 Instituídas em 2006, por meio do Programa de Intercâmbio Internacional com Países Ibéricos, tem como objetivo possibilitar aos alunos de graduação, regularmente matriculados, cursar disciplinas de graduação em instituições ibero-americanas de ensino superior, durante o período máximo de um semestre. (Definição retirada do site do programa).
-5.4 Entidades, grupos e RD’s
+6.4 Entidades, grupos e RD’s
 Além do diretório acadêmico, o curso de SI conta com outras entidades e grupos, formados por alunos, que também trabalham para promover um aumento na qualidade do curso. Vocês vão ouvir sobre o PET (Programa de Educação Tutorial) e a SI USP Jr (a Empresa Junior de Sistemas de Informação). Abaixo seguem uma rápida introdução sobre cada uma delas:
 PET- SI
 O Programa de Educação Tutorial é um dos programas especiais do Ministério da Educação (MEC). É um grupo formado por 12 alunos bolsistas e um professor tutor.
@@ -328,7 +328,7 @@ Web/Dev
 Grupo de alunos que, juntos, aprendem a utilizar as mais diversas ferramentas para criação de sites. Os membros aprendem a desenvolver habilidades importantes para empresas, como a pró-atividade, a capacidade de trabalhar com prazos, sob pressão e o espírito empreendedor, necessário para a criação de projetos pessoais.
 Representantes Discentes (RD's)    
 Os representantes discentes fazem a representação dos alunos perante os professores. Escolhidos por meio de votação, os RD’s levam propostas dos alunos para os professores e à direção da escola. Em suma, eles defendem os interesses dos alunos na Universidade.
-5.5 Créditos e Pré-requisitos
+6.5 Créditos e Pré-requisitos
 Na USP, as disciplinas funcionam por meio de créditos-aula e créditos-trabalho. Um crédito aula equivale a uma hora de aula por semana e um crédito trabalho corresponde (em teoria) a 30 horas de atividades realizadas fora da sala de aula. Você precisa ter acumulado um número mínimo (vinte e cinco por cento dentre o total de matérias que o graduando está matriculado) de créditos (os créditos são acumulados conforme o aluno é aprovado nas disciplinas) por ano para não ter problemas com a sua matrícula. E após ter acumulado um determinado número de créditos durante os seus anos de graduação, você pode se formar!
 Na Universidade você vai notar que algumas disciplinas contam com pré-requisitos. Por exemplo, Cálculo II tem Cálculo I como pré-requisito e Introdução à Análise de Algoritmos requer Introdução à Programação. Porém, existem pré-requisitos fortes e pré-requisitos fracos. 
 Os pré-requisitos fracos permitem que você curse a disciplina desde que tenha obtido uma nota acima de 3 na matéria que é requisito. Então, se sua nota em Introdução à Programação estiver dentro dessa faixa, mesmo que seja reprovado, você pode cursar Introdução à Análise de Algoritmos.
