@@ -447,5 +447,102 @@ Wilsons’s Bar - R. Tuiuti, 1419 - Tatuapé
 “Provavelmente você vai encontrar bastante gente da EACH por lá”
 
 #### 8. Cidade universitária
+##### i. Cursos de Extensão
+Faculdade é um lugar cheio de oportunidades. A USP oferece cursos de aperfeiçoamento, atualização, difusão e especialização, além de atividades de prática profissionalizante, programas de atualização e residência. Para mais informações, acesse https://uspdigital.usp.br/apolo.
+##### ii. Lazer, Cultura e Esportes
+Na universidade você também tem acesso a uma vida cultural e esportiva diversa dada a grande quantidade de eventos disponíveis, que ocorrem em locais como no Teatro da USP, o cinema (CINUSP) e o Centro de Práticas Esportivas CEPEUSP.
+
 #### 9. Vida universitária
+##### i. Onde e como estudar?
+Agora que você já sabe o que precisa para sobreviver no curso e é bom começar a estudar logo! Na EACH existem vários lugares onde você pode estudar, dependendo da sua necessidade. Caso precise de computador, o laboratório é um bom lugar, porém o silêncio não é garantido. Já na biblioteca, você vai encontrar um ambiente tranquilo, e próximo às provas, é bem provável que várias pessoas também estejam lá estudando: é uma boa hora para interagir e buscar ajuda. 
+Se você estiver em grupo, as salas reservadas podem ser úteis, porém fique atento, pois dependendo da época do semestre, muita gente terá a mesma ideia. Além disso, existem as mesas na lanchonete, que não são exatamente ideais pra estudar, mas na pressa, já ajudam. Falando em ajudar, é possível também recorrer às monitorias ou o sufoco. 
+###### a. Monitorias
+Bom, após o êxtase de ter passado na Fuvest, começam as aulas. Você, bixo, fica envaidecido com as festas da EACH e esquece de estudar e as primeiras provas estão se aproximando... O desespero de conseguir tirar nota e não bombar em Cálculo ou Programação começa a tomar conta. Para a sua sorte, algumas matérias do curso contam com monitores, esses nada mais são que alunos de SI dispostos a ensiná-los! O horário e a sala dos monitores serão divulgados pelos professores de cada disciplina durante as primeiras semanas de aula. Qualquer dúvida referente à monitoria, pergunte ao professor, e, se você tiver dúvidas em relação à matéria, não deixe que elas se acumulem, visite o monitor!
+###### b. Sufoco 
+Além disso, o DASI criou o Sufoco. O Sufoco é um grupo de estudos que se reúne, semanalmente, para estudar Cálculo, pois é uma matéria que precisa de um pouco mais de dedicação e atenção para ser concluída. Para saber quando e onde serão as reuniões, visite os grupos do facebook durante as primeiras semanas de aula e acompanhe o canal do DASI no Telegram! Geralmente, o Sufoco conta com a participação de veteranos ou os próprios monitores dessas matérias para auxiliar no estudo. Para participar, basta entrar na sala e juntar-se ao pessoal. Você será muito bem-vindo!
+###### c. Dojo
+Você também pode contar com o DASI para te ajudar com programação! Introdução à Programação às vezes pode dar um nó no cérebro, então nada melhor que uma ajudinha semanal para que você possa entender. Assim como o Sufoco, os horários do Dojo serão informados nas primeiras semanas de aula, em grupos e na própria sala de aula. 
+O Dojo é uma dinâmica para resolver problemas de programação em grupo. A tela do computador é projetada, apenas um aluno digita o código (piloto), auxilia no desenvolvimento (copiloto), enquanto os outros (a plateia) tentam acompanhar o que está sendo feito. A cada período determinado de tempo, o copiloto assume o papel de piloto, o antigo piloto senta-se junto ao resto do grupo e alguém da plateia é selecionado como novo copiloto. Assim como no Sufoco, basta entrar na sala para se juntar à dinâmica.
+###### d. Minicurso de Lógica
+O DASI realiza um minicurso de lógica para auxiliar você, que ainda não tem experiência com programação ou que gostaria de revisar alguns conceitos. As datas serão informadas em sala de aula e nos grupos do facebook/telegram e o curso será composto de algumas poucas aulas introdutórias ao uso da lógica na computação. A intenção do curso é auxiliar o aluno para que não caia de paraquedas nas aulas de Introdução à Programação.
+##### ii. Esportes
+Durante sua estadia no curso de SI, além de ficar sentado na sala de aula, estudando na biblioteca ou correndo para conseguir entregar trabalhos, você terá a oportunidade de participar de eventos esportivos específicos para o curso de Sistemas de Informação.
+O DASI organiza alguns eventos durante o ano para aliviar a tensão do semestre, interagir com seus amigos e tentar acabar com o sedentarismo. A cada semestre um evento de Futsal é organizado exclusivamente para isso.
+###### a. InterSI
+O InterSI, campeonato tradicional, é formado no molde de grupos e fase mata-a-mata, conta com equipes formadas por alunos e ex-alunos. Mas o evento mais esperado por todo bom aluno de SI é o INTERCOMP.
+###### b. Intercomp
+O Intercomp é uma competição universitária esportiva que envolve faculdades de computação. Essa competição é realizada tradicionalmente em uma cidade do interior do estado de São Paulo e teve início no ano de 1990. A organização do evento cabe às Atléticas e Centros Acadêmicos de cada universidade participante. No caso da EACH, a entidade organizadora é o DASI.
+É disputado pelas seguintes faculdades: USP Leste, UNESP Rio Claro, UFSCar, UNICAMP, UNICAMP-FT (CESET), FATEC–Carapicuíba, UEM, UFU, UFMS, UTFPR, USP São Carlos (CAASO) e, quando não é expulso, Mackenzie. O evento acontece no primeiro semestre do ano em um dos feriados que cobrem 4 dias de folga. 
+As faculdades participantes do Intercomp disputam jogos esportivos como Basquetebol feminino e masculino, Futebol de Campo masculino, Futsal feminino e masculino, Handebol feminino e masculino, Natação feminina e masculina, Tênis de Mesa feminino e masculino, Voleibol feminino e masculino, Vôlei de Areia feminino e masculino, Xadrez e Truco feminino e masculino. 
+O DASI USP organiza treinos para selecionar os melhores alunos do curso de SI para fazer parte dos times que disputarão as modalidades citadas. Mas se você não tem interesse em participar dos jogos, não tem problema. O Intercomp é também um local de confraternização entre os estudantes das faculdades, onde você conhecerá muitas pessoas, além das festas que ocorrem nas noites do evento. É um momento muito importante e inesquecível para o estudante e se você pensa em ir, um bom argumento para convencer seus pais (e isso vale para qualquer evento acadêmico) é dizer que irá fazer networking e que isso será fundamental para o sucesso na carreira. Vale a pena participar e você já está convidado! 
+##### iii. E a diversão?
+Faculdade também é diversão, certo? Claro! Não é porque você está na USP que só vai estudar. Existem muitas outras coisas legais para fazer também. Assim como o DASI, existem outras entidades, e todas elas contém uma característica em comum: Gostar de festas! É por isso que não vão faltar festas, cervejadas e afins no decorrer do ano, basta passear pelo Ciclo Básico para saber o que está acontecendo de interessante.
+Vale lembrar que é importante interagir e se divertir na faculdade, e mesmo que você não goste de festas, existem outros eventos bacanas de participar, como a Semana de Sistemas de Informação (SSI).
+###### a. Semana de Sistemas de Informação
+A Semana de Sistemas de Informação (SSI) é concebida como uma reunião social, técnica e científica, com diversas atividades, e também como uma forma de viabilizar trocas de experiências entre alunos e profissionais da academia e da indústria de Sistemas de Informação e de áreas afins. A organização do evento conta com a participação dos alunos do curso de SI, do DASI, da Empresa Júnior de SI, do PET-SI e dos professores do curso.
+A SSI conta com a participação de profissionais convidados, tanto internos quanto externos à Universidade de São Paulo, que são expoentes nas áreas em que atuam. Os assuntos abordados no evento também são bem variados, trazendo sempre assuntos que estão em destaque no momento, desde workshops sobre novas tecnologias até palestras sobre, por exemplo, gestão em TI e análise do mercado. A SSI também conta com a presença de egressos que dividem suas experiências no mercado de trabalho ou no meio acadêmico após o término da graduação, entre outras atividades.
+###### b. Festas do DASI – Glow in Each e Eachian Horror Story – Madness
+Muitos dizem que o pessoal de SI é nerd e antissocial, mas mostramos que isso não passa de um estereótipo muito do errado! Em 2012 e 2013 tivemos nossas primeiras grandes festas, a “Glow in EACH”, que foi repetida em 2015, 2016, 2017 e 2018, onde rola uma festa cheia de luz negra e com muito neon! Temática diferenciada com diversão mais do que garantida. Em 2018 tivemos a sexta edição, com a temática “Dystopia”, uma festa com o tema de um mundo louco e distorcido (qualquer semelhança com o mundo real é mera coincidência), sendo como sempre um sucesso entre os EACHianos e até por pessoas de fora da universidade! 
+###### c. Centro Acadêmico
+No Centro Acadêmico (CA) acontecem algumas festinhas da EACH, além de estar sempre aberto para um cochilo ou, quem sabe, socializar com a galera dos outros cursos. O CA é um espaço destinado aos estudantes, de todos os cursos, onde podem ficar por lá durante o horário em que a EACH estiver aberta.
+O CA fica atrás do Elefante Branco, é só seguir as paredes desenhadas!
+##### iv. Hinos
+Queridx bixo ou bixete, já apresentamos pra você as proximidades da EACH e suas utilidades, a estrutura acadêmica do curso, além das diversões e festas que você encontrará por aqui. Agora chegou uma das melhores partes, os hinos! Com eles vocês aprenderão a demonstrar toda a sua raça e sangue pela nação EACHiana em todas as competições e inters em que o DASI marca presença.
+
+###### a. Grifo
+Grifo, estaremos contigo
+Tu és minha paixão
+Não importa o que digam
+Sempre estarei contigo
+Minha bata é roxa
+A caneca na mão
+Intercomp me espera
+Para começar a festa!
+XALALALAIA GRIFO GRIFO GRIFO
+XALALALAIA GRIFO GRIFO GRIFO
+XALALALAIA MACKENZIE SÓ TEM CUZÃO!
+XALALALAIA GRIFO GRIFO GRIFO
+XALALALAIA GRIFO GRIFO GRIFO
+DASI É MEU CORAÇÃO!
+
+###### b. Me dê limão
+Me dê limão, cachaça
+Gelo, açúcar e colher
+Eu sou da USP, estudo de graça
+Eu bebo todas e pego quem eu quiser 
+Nosso mascote, touro bandido
+Mexeu com a gente você tá fudido
+Toco o terror nessa cidade
+Nós somos, nós somos da EACH!!
+
+###### c. Sou da EACH
+Sou da EACH, não é brincadeira
+Sou Zona Leste e vou roubar sua carteira
+Se não gostou, que vem pra cima
+Roubo a carteira e ainda levo a sua pinga
+Vâmo pro inferno, não, vâmo pro céu
+Se não ganhar, a gente rouba o troféu
+E lá no inferno, eu vou lhe dizer:
+foi... o Cão... que botou pra nóis beber!
+
+###### d. Ser feliz na USP
+Eu só quero é ser feliz
+Porque eu passei na USP, onde você... sempre quis... É!
+E poder me orgulhar
+Por não pagar boleto e gastar tudo no bar!
+
 #### 10. Créditos
+Bem, aqui chegamos ao fim deste manual…
+Um manual que só chegou às suas mãos graças à dedicação de muitos alunos que, ano após ano, querem trazer algo cada vez melhor para seus colegas e seu curso. O DASI é feito de alunos para alunos, e neste manual procuramos explicar da melhor forma tudo o que nós mesmos gostaríamos de saber ao entrar nessa incrível universidade.
+Agradecemos a todos os membros do DASI que trabalharam arduamente para essa ideia de reformulação do manual acontecer. Se você tiver a chance de olhar edições anteriores deste manual, verá que ele está diferente a cada ano, o manual cresce e evolui, e naturalmente, mudamos algumas coisas para essa versão.
+Aos que fizeram parte desse projeto, agradecemos por todas as horas de dedicação, todos os e-mails trocados, Google Docs compartilhados, todo o esforço para escrever cada linha da melhor maneira possível.
+E não podemos deixar de agradecer às antigas gestões que idealizaram este manual e o fizeram acontecer: nada disso teria sido possível sem eles.
+A você, sejam quais forem os seus interesses, o ideal é encontrar aquilo que te chama atenção e aproveitar, pois este é um período inesquecível em que estamos buscando nossas identidades e objetivos, e a faculdade - principalmente uma faculdade como a USP - é o lugar que vai te proporcionar grandes oportunidades para isso!
+Aproveite a sua graduação! Já ouviu alguém dizer que os melhores anos da vida são os da faculdade? Isso não é dito à toa! Ao entrar na USP, você vai perceber que muitas portas se abrirão para você. Mas o período em que você está dentro dela, por mais que se estenda, acaba logo... Por isso, não deixe de participar dos eventos, não perca oportunidades de se divertir, de conhecer pessoas que podem se tornar contatos importantes no futuro, não deixe passar nem um segundo em branco! Faça valer a pena todo o suor para passar na FUVEST e tenha orgulho do seu diploma!
+Enfim, é nessa hora que nos despedimos, te desejamos boa sorte e esperamos - provavelmente como seu pai e sua mãe - que você se lembre das nossas palavras e siga nossos conselhos. Mas se você está achando que terá muito tempo para sentir saudades da gente, não esquenta! O DASI estará com você ao longo de toda a sua vida universitária, desde a Recepção dos Bixos até a sua formatura.
+Confira sempre nossa página no facebook, entrem nos grupos no facebook também: “BIXOS E BIXETES SISTEMAS DE INFORMAÇÃO & BIOTECNOLOGIA - EACH USP 2018” e “Sistemas de Informação – USP”; compareça aos nossos eventos (a festa do DASI, Semana de SI, palestras e workshops, bazares com nossos produtos, entre muitos outros), e, se tiver dúvidas ou problemas em relação ao curso, pode entrar em contato com a gente! Além disso, se você tiver alguma ideia ou quiser ajudar de alguma forma, nossas portas estão abertas!
+Até logo, bixo!
+PS: Pode não parecer, mas a gente ama vocêsssss <3 BEM VINDXS
+
+www.facebook.com/DASIUSP | contato@dasiusp.com
+www.dasiusp.com
