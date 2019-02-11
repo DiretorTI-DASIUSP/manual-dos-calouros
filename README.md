@@ -490,46 +490,84 @@ O CA fica atrás do Elefante Branco, é só seguir as paredes desenhadas!
 Queridx bixo ou bixete, já apresentamos pra você as proximidades da EACH e suas utilidades, a estrutura acadêmica do curso, além das diversões e festas que você encontrará por aqui. Agora chegou uma das melhores partes, os hinos! Com eles vocês aprenderão a demonstrar toda a sua raça e sangue pela nação EACHiana em todas as competições e inters em que o DASI marca presença.
 
 ###### a. Grifo
+
 Grifo, estaremos contigo
+
 Tu és minha paixão
+
 Não importa o que digam
+
 Sempre estarei contigo
+
 Minha bata é roxa
+
 A caneca na mão
+
 Intercomp me espera
+
 Para começar a festa!
+
 XALALALAIA GRIFO GRIFO GRIFO
+
 XALALALAIA GRIFO GRIFO GRIFO
+
 XALALALAIA MACKENZIE SÓ TEM CUZÃO!
+
 XALALALAIA GRIFO GRIFO GRIFO
+
 XALALALAIA GRIFO GRIFO GRIFO
+
 DASI É MEU CORAÇÃO!
 
+
 ###### b. Me dê limão
+
 Me dê limão, cachaça
+
 Gelo, açúcar e colher
+
 Eu sou da USP, estudo de graça
+
 Eu bebo todas e pego quem eu quiser 
+
 Nosso mascote, touro bandido
+
 Mexeu com a gente você tá fudido
+
 Toco o terror nessa cidade
+
 Nós somos, nós somos da EACH!!
 
+
 ###### c. Sou da EACH
+
 Sou da EACH, não é brincadeira
+
 Sou Zona Leste e vou roubar sua carteira
+
 Se não gostou, que vem pra cima
+
 Roubo a carteira e ainda levo a sua pinga
+
 Vâmo pro inferno, não, vâmo pro céu
+
 Se não ganhar, a gente rouba o troféu
+
 E lá no inferno, eu vou lhe dizer:
+
 foi... o Cão... que botou pra nóis beber!
 
+
 ###### d. Ser feliz na USP
+
 Eu só quero é ser feliz
+
 Porque eu passei na USP, onde você... sempre quis... É!
+
 E poder me orgulhar
+
 Por não pagar boleto e gastar tudo no bar!
+
 
 #### 10. Créditos
 Bem, aqui chegamos ao fim deste manual…
