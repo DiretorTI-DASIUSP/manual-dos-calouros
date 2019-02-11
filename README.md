@@ -284,51 +284,52 @@ O Ciclo Básico (CB) da EACH difere-se por ser justamente a aplicação dessa pr
 * Psicologia, Educação e Temas Contemporâneos
 * Sociedade, Meio Ambiente e Cidadania
 * Arte, Literatura e Cultura no Brasil
+
 Enquanto nos outros cursos essas disciplinas são cursadas durante o primeiro ano, em SI elas estão espalhadas ao longo curso.
-6.1 Estágios
+
+##### i. Estágios
 A USP oferece dois tipos de estágio, os obrigatórios e os não obrigatórios. Os não obrigatórios, como o próprio nome já diz, são opcionais e os alunos apenas precisam seguir as normas que se encontram no site da EACH (www.each.usp.br). Não é recomendado fazer estágios não assinados pela USP, pois eles podem prejudicar seu desempenho acadêmico e, caso isso aconteça, você pode perder muitas oportunidades, como Iniciações Científicas e até Intercâmbios.
 Os estágios obrigatórios, por sua vez, são necessários para os estudantes que estão concluindo o curso. Como você acabou de entrar, ainda é cedo para pensar nisso, mas saiba que o aluno pode optar por fazer um projeto de estágio ou Trabalho de Conclusão de Curso (TCC) quando for concluir o curso. 
 Há alguns meios de “trocar” ou “remover” essa obrigatoriedade de fazer o estágio ou o TCC ao final do curso. A USP entende que cada ano de Iniciação Científica realizado equivale a seis meses de TCC ou um estágio. Ou seja, se você faz um ano de Iniciação Científica durante sua graduação, você precisará de apenas seis meses de estágio obrigatório ou de TCC.
-6.2. Iniciação Científica
+##### ii. Iniciação Científica
 Iniciações Científicas são projetos de pesquisas cujo conteúdo é desenvolvido por um aluno devidamente orientado por um professor. Geralmente esses projetos são financiados por instituições que trabalham em conjunto com a Universidade de São Paulo e, logo, em alguns casos você recebe um pequeno auxílio para realizar as pesquisas. Mas vale salientar que também é possível fazer Iniciações Científicas voluntárias em que você executa praticamente as mesmas coisas que um bolsista, só que não recebe por isso. Veja abaixo algumas modalidades de IC.
-CNPq
+###### a. CNPq
 O Conselho Nacional de Desenvolvimento Científico e Tecnológico oferece, atualmente, dois programas distintos de Iniciação Científica: o Programa Institucional de Bolsas de Iniciação Científica (PIBIC) e o Programa Institucional de Bolsas de Iniciação em Desenvolvimento Tecnológico e Inovação (PIBITI). As bolsas conferidas pelo CNPq são, geralmente, baseadas em mérito acadêmico. As bolsas são destinadas a alunos a partir do 3º Semestre (segundo ano), podendo concorrer a elas a partir de abril do ano letivo, e o critério de seleção é baseado na nota (ou média ponderada).
-Ensinar com Pesquisa
+###### b. Ensinar com Pesquisa
 Bolsa Institucional oferecida pela EACH, o Programa Ensinar com Pesquisa da USP destina-se, prioritariamente, aos alunos que comprovaram renda de até cinco salários mínimos ao preencherem o questionário socioeconômico da FUVEST e estão devidamente matriculados, pelo menos, no 3º semestre letivo da graduação. Porém, o período de inscrições ocorre no final do ano e, logo, os alunos do primeiro ano que tiverem um desempenho acadêmico razoável já podem concorrer.
-FAPESP
+###### c. FAPESP
 A Fundação de Amparo à Pesquisa do Estado de São Paulo oferece bolsas com duração de, em média, um ano, destinadas a alunos de graduação, podendo realizar a solicitação da bolsa em qualquer período do ano. As bolsas FAPESP geralmente são mais difíceis de conseguir, pois exigem um desempenho quase impecável por parte do aluno, além de exigirem muito trabalho durante o período de pesquisa. Porém, são muito reconhecidas e normalmente o valor da bolsa é um pouco maior que as demais.
-PUB
+###### d. PUB
 O PUB (Programa Unificado de Bolsas) é um edital da USP que concede bolsas não só para projetos de pesquisa, mas também para ensino, cultura e extensão. Neste edital, os professores-pesquisadores enviam os projetos para o programa para que os alunos possam se inscrever em até 2 deles dos quais PODERÃO ser escolhidos. O Edital é lançado via Júpiter geralmente depois maio.
-IC Voluntária
+###### e. IC Voluntária
 Para realizar uma Iniciação Científica, o aluno não precisa, necessariamente, estar vinculado a uma instituição de pesquisa (CNPq ou FAPESP, por exemplo), uma vez que a Comissão de Pesquisa da EACH abriu a possibilidade de reconhecer um período de Iniciação Científica realizado de forma voluntária, sem bolsa. Para obter a devida certificação e reconhecimento, basta que o aluno tenha realizado um período de, pelo menos, seis meses de pesquisas e tenha atingido as devidas exigências estabelecidas pela Comissão.
-6.3 Intercâmbios
+##### iii. Intercâmbios
 Um desejo comum entre muitos estudantes de graduação é estudar um tempo no exterior. Afinal, viver um período com uma cultura diferente e sozinho deve ser uma experiência única, não? Mas relembramos a importância de um bom desempenho acadêmico do aluno para que esse “sonho” possa se tornar realidade. Veja abaixo alguns dos programas de intercâmbios de que você pode se beneficiar. 
 Procure saber quais deles oferecem auxílio financeiro durante o período do intercâmbio: dependendo do programa e do edital, você pode conseguir desde as passagens de avião até uma bolsa mensal para você sobreviver lá fora.
-
-AISEC
+###### a. AISEC
 Presente em 1.850 universidades de 110 países e territórios, a AISEC é a maior organização internacional formada por estudantes do mundo. A plataforma permite que jovens descubram e desenvolvam seus potenciais de modo a ter um impacto positivo na sociedade.
 Anualmente, a AIESEC realiza mais de 500 conferências, 15.000 intercâmbios profissionais e oferece mais de 17.000 posições de liderança para os nossos membros em todo o mundo. (Definição retirada do site da instituição).
-Programas de Intercâmbio oferecidos exclusivamente pela USP
+###### b. Programas de Intercâmbio oferecidos exclusivamente pela USP
 O Programa de Bolsas de Intercâmbio para Alunos de Graduação oferece mais de 1.000 bolsas de estudos para alunos de graduação terem a oportunidade de estudar no exterior. O projeto é inédito entre as universidades brasileiras e as bolsas estão distribuídas entre duas agências: Aucani e Auspin.
-Bolsa Santander USP
+###### c. Bolsa Santander USP
 Instituídas em 2006, por meio do Programa de Intercâmbio Internacional com Países Ibéricos, tem como objetivo possibilitar aos alunos de graduação, regularmente matriculados, cursar disciplinas de graduação em instituições ibero-americanas de ensino superior, durante o período máximo de um semestre. (Definição retirada do site do programa).
-6.4 Entidades, grupos e RD’s
+##### iv. Entidades, grupos e RD’s
 Além do diretório acadêmico, o curso de SI conta com outras entidades e grupos, formados por alunos, que também trabalham para promover um aumento na qualidade do curso. Vocês vão ouvir sobre o PET (Programa de Educação Tutorial) e a SI USP Jr (a Empresa Junior de Sistemas de Informação). Abaixo seguem uma rápida introdução sobre cada uma delas:
-PET- SI
+###### a. PET- SI
 O Programa de Educação Tutorial é um dos programas especiais do Ministério da Educação (MEC). É um grupo formado por 12 alunos bolsistas e um professor tutor.
 O grupo tem como objetivo realizar atividades acadêmicas extra curriculares, que integrem ensino, pesquisa e extensão, propiciando aos alunos participantes a complementação de sua formação acadêmica, procurando atender plenamente as necessidades do próprio curso de graduação.
 Além de 12 alunos bolsistas e do professor tutor, o PET também pode contar com até seis colaboradores (sem bolsa) e voluntários. Acesse o site do PET-SI para saber mais: http://www.each.usp.br/petsi/).
-Síntese  Jr.
+###### b. Síntese  Jr.
 Fundada em 2017, a Síntese Jr. é a nova empresa júnior de Sistemas de Informação. Sem fins lucrativos e formada exclusivamente por alunos de SI, ela atua prestando serviços de qualidade na área da tecnologia. O objetivo é proporcionar aos alunos conhecimento e experiências diferentes da sala de aula, e oferecer uma visão, na prática, de como é o mercado de TI e como funciona uma empresa na área.
-EACH GameDev
+###### c. EACH GameDev
 É um grupo de desenvolvimento de jogos digitais criado por alunos da EACH-USP em 2013. Tem como objetivo permitir que o aluno aprenda e compartilhe informações sobre o desenvolvimento de games. Para isso são realizadas reuniões semanalmente para trabalhar em projetos. Além disso, realizam-se workshops, dojos, oficinas, palestras e eventos relacionados à criação de games. O grupo é aberto para a participação de todos, independente do curso e do nível de conhecimento.
-TechnoMakers EACH
+###### d. TechnoMakers EACH
 Grupo colaborativo, composto por alunos para desenvolvimento de projetos com base em Arduino e Raspberry Pi. O grupo realiza workshops, curso de introdução a Arduino e auxilia quem estiver interessado elaborar algum projeto em conjunto com o grupo. As atividades do grupo são divulgadas ao longo do semestre.
-Web/Dev
+###### e. Web/Dev
 Grupo de alunos que, juntos, aprendem a utilizar as mais diversas ferramentas para criação de sites. Os membros aprendem a desenvolver habilidades importantes para empresas, como a pró-atividade, a capacidade de trabalhar com prazos, sob pressão e o espírito empreendedor, necessário para a criação de projetos pessoais.
-Representantes Discentes (RD's)    
+###### f. Representantes Discentes (RD's)    
 Os representantes discentes fazem a representação dos alunos perante os professores. Escolhidos por meio de votação, os RD’s levam propostas dos alunos para os professores e à direção da escola. Em suma, eles defendem os interesses dos alunos na Universidade.
-6.5 Créditos e Pré-requisitos
+##### v. Créditos e Pré-requisitos
 Na USP, as disciplinas funcionam por meio de créditos-aula e créditos-trabalho. Um crédito aula equivale a uma hora de aula por semana e um crédito trabalho corresponde (em teoria) a 30 horas de atividades realizadas fora da sala de aula. Você precisa ter acumulado um número mínimo (vinte e cinco por cento dentre o total de matérias que o graduando está matriculado) de créditos (os créditos são acumulados conforme o aluno é aprovado nas disciplinas) por ano para não ter problemas com a sua matrícula. E após ter acumulado um determinado número de créditos durante os seus anos de graduação, você pode se formar!
 Na Universidade você vai notar que algumas disciplinas contam com pré-requisitos. Por exemplo, Cálculo II tem Cálculo I como pré-requisito e Introdução à Análise de Algoritmos requer Introdução à Programação. Porém, existem pré-requisitos fortes e pré-requisitos fracos. 
 Os pré-requisitos fracos permitem que você curse a disciplina desde que tenha obtido uma nota acima de 3 na matéria que é requisito. Então, se sua nota em Introdução à Programação estiver dentro dessa faixa, mesmo que seja reprovado, você pode cursar Introdução à Análise de Algoritmos.
