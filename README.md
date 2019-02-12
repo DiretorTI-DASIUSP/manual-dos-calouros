@@ -227,7 +227,7 @@ Durante seu período na EACH você vai frequentar alguns prédios entre eles os 
 ###### a. Titanic (I1)
 Nesse prédio é onde você tem a grande maioria de suas aulas, é nele que estão: a sala do DASI, as salas das EJS, a sala do PET, nosso querido bandejão (<3), o serviço de graduação e as salas de alguns professores.
 ###### b. CB (Ciclo básico)
-Aqui você vai ter as aulas do CB, também estão aqui: A lanchonete, os laboratórios para uso dos alunos, o laboratório para impressão e o deque - ou o que sobrou dele... :(
+Aqui você vai ter as aulas do CB, também estão aqui: A lanchonete, os laboratório para uso dos alunos de S.I., os laboratórios para uso dos alunos, o laboratório para impressão e o deque - ou o que sobrou dele... :(
 ###### c. Elefante Branco (A1)
 Neste prédio estão as salas dos professores. Além disso é um lugar tranquilo para estudar, tirar uma soneca, ir ao banheiro ou dar uns beijinhos rs.
 ###### d. Incubadora Tecnológica e Social
